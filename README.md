@@ -8,10 +8,6 @@
 
 <!---
 Here’s a basic custom-built educational tools website with a unit converter (kilometers to miles) and a simple calculator. This is a starting point—you can expand it with more tools later.
-
-
----
-
 1. Folder Structure
 
 /educational-tools
